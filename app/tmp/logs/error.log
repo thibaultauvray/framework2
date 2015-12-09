@@ -1,0 +1,142 @@
+2015-07-05 08:21:57 Error: [MissingViewException] View file "Index/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Index/index.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest))
+#4 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-08 08:14:11 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Index/index.ctp, line 17]
+2015-07-08 08:14:11 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:14:12 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Index/index.ctp, line 17]
+2015-07-08 08:14:12 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:15:45 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Index/index.ctp, line 17]
+2015-07-08 08:15:45 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:15:47 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Index/index.ctp, line 17]
+2015-07-08 08:15:47 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:16:01 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Index/index.ctp, line 17]
+2015-07-08 08:16:01 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:16:02 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Index/index.ctp, line 17]
+2015-07-08 08:16:02 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:16:19 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Index/index.ctp, line 17]
+2015-07-08 08:16:19 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 17, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:17:25 Error: Fatal Error (4): syntax error, unexpected '<' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Layouts/default.ctp, line 29]
+2015-07-08 08:17:25 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 29)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 29, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 29, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:17:26 Error: Fatal Error (4): syntax error, unexpected '<' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Layouts/default.ctp, line 29]
+2015-07-08 08:17:26 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 29)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 29, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 29, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:17:49 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Layouts/connection.php, line 18]
+2015-07-08 08:17:49 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 18, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 18, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:17:50 Error: Fatal Error (4): syntax error, unexpected '}' in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Layouts/connection.php, line 18]
+2015-07-08 08:17:50 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 18, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 18, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:19:03 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Layouts/connection.php, line 7]
+2015-07-08 08:19:03 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 7, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 7, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-08 08:19:03 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [/Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/app/View/Layouts/connection.php, line 7]
+2015-07-08 08:19:03 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /
+Stack Trace:
+#0 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Volumes/Data/n...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Volumes/Data/n...', 7, Array)
+#2 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Volumes/Data/n...', 7, Array)
+#3 /Volumes/Data/nfs/zfs-student-3/users/2014/tauvray/mamp/apps/framework2/htdocs/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
